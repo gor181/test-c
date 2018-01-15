@@ -46,17 +46,9 @@ msg_bad <- "That is not correct!"
 msg_success <- "Exactly! There seems to be a very bad action movie in the dataset."
 test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad))
 ```
+--- type:NormalExercise xp:100 skills:1 key:a07d326f3d lang: r
 
----
 ## More movies
-
-```yaml
-type: NormalExercise
-lang: r
-xp: 100
-skills: 1
-key: a07d326f3d
-```
 
 In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
 
